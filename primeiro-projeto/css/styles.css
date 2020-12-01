@@ -1,3 +1,4 @@
-h1 {
-    color: red;
+/* geral */
+body, p, h1, h2, imput, textarea {
+    margin: 0;
 }
