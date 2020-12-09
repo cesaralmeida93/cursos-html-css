@@ -1,0 +1,23 @@
+.example {
+  color: #FFF;
+  text-align: center;
+}
+
+.example-item {
+  width: 33.333%;
+  height: 50px;
+  padding: 10px;
+  display: inline;
+}
+
+.example-item-first {
+  background-color: #FAA116;
+}
+
+.example-item-second {
+  background-color: #57c7c3;
+}
+
+.example-item-third {
+  background-color: #3B97D3;
+}
