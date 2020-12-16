@@ -6,14 +6,18 @@
   text-transform: uppercase;
   text-align: center;
   cursor: pointer;
+  position: relative;
 }
 
 .elementExample_first {
   background-color: #8E44AD;
-  position: relative;
   top: 200px;
 }
 
 .elementExample_last {
   background-color: #C0392B;
+}
+
+.elementExample_isActive {
+  z-index: 1;
 }
